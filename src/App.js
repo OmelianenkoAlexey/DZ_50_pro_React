@@ -39,13 +39,15 @@ function App() {
 
   return (
     <div className="App">
-  
-    <Header />
-          <div className='container'>
-      <div className='Left'><Left /></div>
-      <div className='Main'><UsersList /></div>
-</div>
-      <div className='Footer'><Footer /></div>
+
+      <Header />
+      
+      <div className='container'>
+        <Left />
+        <UsersList />
+      </div>
+
+      <Footer />
 
 
       {/*  <p>Counter:</p>

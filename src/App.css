@@ -1,4 +1,40 @@
-.App {
+
+/* .container {
+  display: flex;
+  
+  grid-template-areas: 
+ "hdr"
+   "left main"
+       "footer"
+        ;
+        width: 100vw;
+} */
+
+/* .Header {
+  grid-area: hdr;
+ height: 200px;
+  width: 100px;
+  background-Color: "blue",
+} */
+
+
+/* .Left {
+  grid-area: left;
+  width: 300px;
+} */
+
+/* .Main {
+  grid-area: main;
+  width: 500px;
+} */
+
+/* .Footer {
+  grid-area: footer;
+  height: 200px;
+  width: 100px;
+} */
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +71,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */

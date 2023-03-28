@@ -17,10 +17,9 @@ import UserItem from "./UserItem";
 
 // создаем свой личный контейнер и стили
 const MainWrapperMain = styled(Box)(() => ({
-    display: "grid",
-    gridTemplateColumns: "repeat(3, 1fr)",
+    display: "flex",
+    flexWrap: "wrap",
     width: "70%",
-    // height: "auto",
     padding: "10px",
 }));
 

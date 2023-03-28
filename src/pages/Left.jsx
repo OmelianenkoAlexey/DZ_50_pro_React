@@ -4,7 +4,7 @@ import { styled, Box } from "@mui/material";
 
     const MainWrapperLeft = styled(Box)(() => ({
 
-        width: "30%",
+        width: "20%",
         height: "auto",
         backgroundColor: "green",
     }));

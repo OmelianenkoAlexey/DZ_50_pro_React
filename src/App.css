@@ -1,12 +1,5 @@
 
 .App {
-  /* display: grid; */
-  
-  /* grid-template-areas: 
- "hdr"
-   "left main"
-       "footer"
-        ; */
         width: 100vw;
         height: 100vh;
 }
